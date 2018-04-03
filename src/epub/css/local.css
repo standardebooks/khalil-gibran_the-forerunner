@@ -1,28 +1,5 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
-figure.full-page{
-	margin: 0;
-	max-height: 100%;
-	page-break-before: always;
-	page-break-after: always;
-	page-break-inside: avoid;
-	text-align: center;
-}
-
-figure img{
-	display: block;
-	margin: auto;
-	max-width: 100%;
-}
-
-figure + p{
-	text-indent: 0;
-}
-
-figcaption{
-	font-size: .75em;
-	font-style: italic;
-}
 
 [epub|type~="z3998:poem"] p{
 	text-align: left;
@@ -41,18 +18,4 @@ figcaption{
 
 [epub|type~="z3998:poem"] p + p{
 	margin-top: 1em;
-}
-
-[epub|type~="z3998:poem"] + p{
-	text-indent: 0;
-}
-
-p span.i1{
-	text-indent: -1em;
-	padding-left: 2em;
-}
-
-p span.i2{
-	text-indent: -1em;
-	padding-left: 3em;
 }
