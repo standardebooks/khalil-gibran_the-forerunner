@@ -90,35 +90,35 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="text/prologue.xhtml" id="prologue.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/gods-fool.xhtml" id="gods-fool.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/love.xhtml" id="love.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-king-hermit.xhtml" id="the-king-hermit.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-lions-daughter.xhtml" id="the-lions-daughter.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/tyranny.xhtml" id="tyranny.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-saint.xhtml" id="the-saint.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-plutocrat.xhtml" id="the-plutocrat.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-greater-self.xhtml" id="the-greater-self.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/war-and-the-small-nations.xhtml" id="war-and-the-small-nations.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/critics.xhtml" id="critics.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/poets.xhtml" id="poets.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-weather-cock.xhtml" id="the-weather-cock.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-king-of-aradus.xhtml" id="the-king-of-aradus.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/out-of-my-deeper-heart.xhtml" id="out-of-my-deeper-heart.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/dynasties.xhtml" id="dynasties.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/knowledge-and-half-knowledge.xhtml" id="knowledge-and-half-knowledge.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/said-a-sheet-of-snow-white-paper.xhtml" id="said-a-sheet-of-snow-white-paper.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-scholar-and-the-poet.xhtml" id="the-scholar-and-the-poet.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/values.xhtml" id="values.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/other-seas.xhtml" id="other-seas.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/repentance.xhtml" id="repentance.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-dying-man-and-the-vulture.xhtml" id="the-dying-man-and-the-vulture.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/beyond-my-solitude.xhtml" id="beyond-my-solitude.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-last-watch.xhtml" id="the-last-watch.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/critics.xhtml" id="critics.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dynasties.xhtml" id="dynasties.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/gods-fool.xhtml" id="gods-fool.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/knowledge-and-half-knowledge.xhtml" id="knowledge-and-half-knowledge.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/love.xhtml" id="love.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/other-seas.xhtml" id="other-seas.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/out-of-my-deeper-heart.xhtml" id="out-of-my-deeper-heart.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/poets.xhtml" id="poets.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/prologue.xhtml" id="prologue.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/repentance.xhtml" id="repentance.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/said-a-sheet-of-snow-white-paper.xhtml" id="said-a-sheet-of-snow-white-paper.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-dying-man-and-the-vulture.xhtml" id="the-dying-man-and-the-vulture.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-greater-self.xhtml" id="the-greater-self.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-king-hermit.xhtml" id="the-king-hermit.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-king-of-aradus.xhtml" id="the-king-of-aradus.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-last-watch.xhtml" id="the-last-watch.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lions-daughter.xhtml" id="the-lions-daughter.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-plutocrat.xhtml" id="the-plutocrat.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-saint.xhtml" id="the-saint.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-scholar-and-the-poet.xhtml" id="the-scholar-and-the-poet.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-weather-cock.xhtml" id="the-weather-cock.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/tyranny.xhtml" id="tyranny.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/values.xhtml" id="values.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/war-and-the-small-nations.xhtml" id="war-and-the-small-nations.xhtml" media-type="application/xhtml+xml"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
