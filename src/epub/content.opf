@@ -46,7 +46,7 @@
 		<dc:description id="description">The second collection of poetry and short stories by Lebanese author Khalil Gibran.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Published in 1920, &lt;i&gt;The Forerunner: His Parables and Poems&lt;/i&gt; is the second collection of philosophical poetry and short stories by Lebanese author Khalil Gibran. A spiritual successor to &lt;i&gt;The Madman&lt;/i&gt;, &lt;i&gt;The Forerunner&lt;/i&gt; consists of 25 poems and parables relating to spirituality, love, our greater selves.
+			&lt;p&gt;Published in 1920, &lt;i&gt;The Forerunner: His Parables and Poems&lt;/i&gt; is the second collection of philosophical poetry and short stories by Lebanese author Khalil Gibran. A spiritual successor to &lt;i&gt;The Madman&lt;/i&gt;, &lt;i&gt;The Forerunner&lt;/i&gt; consists of 25 poems and parables relating to spirituality, love, our greater selves.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
@@ -73,6 +73,12 @@
 		<dc:contributor id="transcriber-2">Chuck Greif</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Greif, Chuck</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">MFR</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">MFR</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">PGDP</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">PGDP</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Sami Siddiqui</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Siddiqui, Sami</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://github.com/samisiddiqui</meta>
