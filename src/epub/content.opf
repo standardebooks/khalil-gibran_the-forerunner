@@ -45,7 +45,7 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">The second collection of poetry and short stories by Lebanese author Khalil Gibran.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Published in 1920, &lt;i&gt;The Forerunner: His Parables and Poems&lt;/i&gt; is the second collection of philosophical poetry and short stories by Lebanese author Khalil Gibran. A spiritual successor to &lt;i&gt;The Madman&lt;/i&gt;, &lt;i&gt;The Forerunner&lt;/i&gt; consists of 25 poems and parables relating to spirituality, love, our greater selves.&lt;/p&gt;
+			&lt;p&gt;Published in 1920, &lt;i&gt;The Forerunner: His Parables and Poems&lt;/i&gt; is the second collection of philosophical poetry and short stories by Lebanese author &lt;a href="https://standardebooks.org/ebooks/khalil-gibran"&gt;Khalil Gibran&lt;/a&gt;. A spiritual successor to &lt;a href="https://standardebooks.org/ebooks/khalil-gibran/the-madman"&gt;&lt;i&gt;The Madman&lt;/i&gt;&lt;/a&gt;, &lt;i&gt;The Forerunner&lt;/i&gt; consists of 25 poems and parables relating to spirituality, love, our greater selves.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/54580</dc:source>
